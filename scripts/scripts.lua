@@ -1,7 +1,3 @@
---<<Naga auto farm/stack/creepwave cut>>
-
---[[ Naga Farm script by Moones ]]--
-
 require("libs.ScriptConfig")
 require("libs.Utils")
 require("libs.EasyHUD")
